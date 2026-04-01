@@ -1,0 +1,16 @@
+word,sentence1,sentence2,label
+bank,He sat by the river bank.,She deposited money in the bank.,0
+bat,The bat flew in the night.,He hit the ball with a bat.,0
+light,Turn on the light.,This bag is light to carry.,0
+play,The children play in the park.,The play was performed on stage.,0
+run,He runs every morning.,She runs a successful business.,0
+book,I read a book yesterday.,Please book a ticket for me.,0
+watch,I watch TV daily.,He bought a new watch.,0
+train,The train arrived late.,They train hard every day.,0
+match,This match is exciting.,The colors match well.,0
+file,Open the file on your computer.,He used a file to smooth the metal.,0
+bright,The sun is very bright.,She is a bright student.,0
+hard,This problem is hard.,He works hard every day.,1
+fast,He runs fast.,This car is fast.,1
+cold,The weather is cold.,I caught a cold.,0
+fair,She has a fair complexion.,The decision was fair.,0

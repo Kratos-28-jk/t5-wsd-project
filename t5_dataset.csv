@@ -1,0 +1,16 @@
+input_text,target_text
+Sentence 1: He sat by the river bank. Sentence 2: She deposited money in the bank. Word: bank,No
+Sentence 1: The bat flew in the night. Sentence 2: He hit the ball with a bat. Word: bat,No
+Sentence 1: Turn on the light. Sentence 2: This bag is light to carry. Word: light,No
+Sentence 1: The children play in the park. Sentence 2: The play was performed on stage. Word: play,No
+Sentence 1: He runs every morning. Sentence 2: She runs a successful business. Word: run,No
+Sentence 1: I read a book yesterday. Sentence 2: Please book a ticket for me. Word: book,No
+Sentence 1: I watch TV daily. Sentence 2: He bought a new watch. Word: watch,No
+Sentence 1: The train arrived late. Sentence 2: They train hard every day. Word: train,No
+Sentence 1: This match is exciting. Sentence 2: The colors match well. Word: match,No
+Sentence 1: Open the file on your computer. Sentence 2: He used a file to smooth the metal. Word: file,No
+Sentence 1: The sun is very bright. Sentence 2: She is a bright student. Word: bright,No
+Sentence 1: This problem is hard. Sentence 2: He works hard every day. Word: hard,Yes
+Sentence 1: He runs fast. Sentence 2: This car is fast. Word: fast,Yes
+Sentence 1: The weather is cold. Sentence 2: I caught a cold. Word: cold,No
+Sentence 1: She has a fair complexion. Sentence 2: The decision was fair. Word: fair,No
